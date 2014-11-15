@@ -1,16 +1,3 @@
-**********************************README*********************************
-
-
-COMS E6111 Fall 2012
-
-Kuber Kaul
-kk2872@columbia.edu
-
-Harshil Gandhi
-hmg2138@columbia.edu
-
-*************************************************************************
-
 Project 3
 
 Files Submitted:
@@ -115,4 +102,3 @@ Most Interesting example run:
 Run as <INTEGRATED-DATASET.csv> <0.07> <0.1>
 
 The reason for it being interesting is explained above in the 4 points and the paragraph that follows these points.
-//End of File
